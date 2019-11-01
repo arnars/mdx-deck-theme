@@ -1,0 +1,11 @@
+dist/
+node_modules/
+public/
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
